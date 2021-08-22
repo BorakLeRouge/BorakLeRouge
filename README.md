@@ -1,0 +1,3 @@
+- 👋 Bonjour, je m'appelle Mathieu Fay.
+- 👀 Je suis intéressé par la programmation : Javascript, Node.js, Cobol, Php, html, css, xojo
+- 🌱 Pour l'instant je suis beaucoup sur le développement d'extension VSCode.
